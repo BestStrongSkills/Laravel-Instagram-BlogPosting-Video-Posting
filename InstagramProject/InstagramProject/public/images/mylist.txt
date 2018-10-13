@@ -1,0 +1,2 @@
+file 'intermediate1.ts'
+file 'intermediate2.ts'
